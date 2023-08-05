@@ -1,14 +1,25 @@
-# Expo Router Example
+# Job Search React-native App ([Visit](https://expo.dev/@mas_99/React_Native_Jobs?serviceType=classic&distribution=expo-go))
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+An app with modern and user-friendly UI/UX for finding suitable job offers.Build with React-Native and expo tools. This app uses JSearch API to fetch data from source. This app comes with search functionality, pagination, job-details page etc. In future I will other features such as login/signup (user accounts), proper sliding menu bar and other minor enhancements.
 
-## 🚀 How to use
+## Active Pages
+- Welcome page
+- Full-Time Job page
+- Part-Time Job page
+- Contarctor job page
+- Job Details page
+- Search Result page
+  
 
-```sh
-npx create-expo-app -e with-router
-```
+## Key Features
+- Search functionality
+- Proper pagination
+- Job Details page
+- Dynamic data rendering from relatime API call
+- Modern and user friendly UI/UX
 
-## 📝 Notes
+### Screenshot
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+![](src/Images/Screenshot-React-native.png)  
+
+
