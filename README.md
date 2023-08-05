@@ -20,6 +20,6 @@ An app with modern and user-friendly UI/UX for finding suitable job offers.Build
 
 ### Screenshot
 
-![](src/Images/Screenshot-React-native.png)  
+![](Images/Screenshot-React-native.png)  
 
 
